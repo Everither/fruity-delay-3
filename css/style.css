@@ -31,6 +31,7 @@ body {
     font-family: optima;
     text-align: center;
     line-height: 30px;
+    user-select: none;
 }
 
 .sub-container.input {
